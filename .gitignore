@@ -1,0 +1,99 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's often recommended to exclude package directories,
+# as these can be easily restored with your package manager
+node_modules/
+vendor/
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific files #
+######################
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Visual Studio Code
+.vscode/
+
+# Editor specific files #
+########################
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Dependency directories #
+##########################
+# Node.js dependencies
+node_modules/
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment Files #
+#####################
+.env
+.env.local
+
+# Build directories #
+#####################
+/dist
+/tmp
+
+# Other #
+########
+# Secrets
+*.pem
+*.key
+
+# Multimedia
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Logs
+*.log
+
+# Exclude AfterEffectsProject folder
+AfterEffectsProject/
