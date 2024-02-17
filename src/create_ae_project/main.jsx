@@ -10,5 +10,4 @@ function main() {
         Helpers.error("An error occurred: " + e.toString());
     }
 }
-
 main();
