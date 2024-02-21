@@ -1,6 +1,6 @@
 // scripts/main.jsx
-#include "utilities/helpers.jsx"
-#include "modules/module1.jsx"
+#include "scripts/utilities/helpers.jsx"
+#include "scripts/modules/componentCreator.jsx"
 
 function main() {
     try {
