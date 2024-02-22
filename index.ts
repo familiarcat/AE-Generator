@@ -2,7 +2,7 @@ console.log('Hello via Bun!');
 import { exec } from 'child_process';
 import { resolve } from 'path';
 
-const scriptPath = './src/create_ae_project/create_ae_project.sh';
+const scriptPath = './create_ae_project.sh';
 
 console.log('scriptPath: ' + scriptPath);
 
